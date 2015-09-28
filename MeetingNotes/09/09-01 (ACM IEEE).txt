@@ -1,0 +1,121 @@
+Meeting Notes for 01 September, 2015
+
+Andrea: Hello everyone. I guess tha club fair must have gone very well, and I'm actually very excited because I never expected
+        to seethis many people infornt of me like I do in this room before. Tell Your friends I want more.
+Jonah: Yes--
+Nigel: I'm Nigel Armstrong, and this is Andrea.
+<Someone walks through the door>
+Andrea: You made it yes!
+Jonah: Oh hey..
+
+
+Semester Overview
+*****************
+
+Andrea: I wanted to start out by saying a few of the things we want to get done this semester.
+        The first thing is: Successfully organize our ever famous Lan Party, and the Game for it.
+        The ACM Programming competition is coming up, and you should have gotten an email about it from Aron Khoel. You should 
+        sign up for that. You get free ACM membership if you do it. So it's worth your time. You don't even have to do well.
+        You can completely fail, and you still get food, and membership.
+Jonah: Like Nigel did last year.
+Andrea: Like we all did. He was the only team that got one
+Nigel: We did pretty good. Yeah. the only CNU team that got one.
+Andrea: I do want to put some focus on the Cyber Security, but that's not for me to talk about. Wait, I'm the president, yes,
+        yes it is. We will also be trying to ressurect Replay for Life. If you're interested in doing Charity Video game speed
+        runs, please come up to the front after this and we will look into signing you up.
+        
+Vice President Absence  (Vote involved)
+**********************
+
+Andrea: Very important, So our vice president Richard Harrah, is no longer a full time student. So according to our current
+        Bi-Laws, he can no longer be the vice president. We have been discussing what we want to do about this, and I want to
+        get your guys' opinion. Would you like a new Vice president? Or would you like to ammend the Bi-Laws to allow him to
+        remain vice president for the rest of the term?
+<Person Shouts Ammend!>
+Jonah: That's a really long process. We don't have time.
+Andrea: What Ammending?
+Jonah: Yeah.
+Andrea: Ammending the Bi-Laws means that I have to say, next meeting we are haveing a Bi-Law ammendment meeting, and we have
+        to discuss ammending the Bi-Laws.
+Jonah: What was it so complicated when Gerald did it?
+Andrea: Because Gerald.
+<laughter>
+Andrea: Just show up hands: Who wants a new vice president.
+Andrea: Who wants to make things easy and change the rules so we can keep our vice president.
+
+<-------    Amendment Meeting Vote Raised in: [Ammendment meeting vs. Voting in new VP] --------->
+<-------   Vote: 3-8 for Ammendment meeting. --------->
+
+Andrea: Okay so next meeting, Tuesday the 8th we will have a Bi-Law ammendment meeting, so come with your voting pencils.
+        I will also have pencils.
+< Question: So only official members can vote. >
+
+Andrea: Yes, if you pay your dues, and give us your membership number and we have that on record, you can vote.
+        Everyone else can just give moral support.
+Jackie: You can pay your dues right now by the way, and that way you can vote next week.
+        They're $20.00
+Jonah: Just go to the website--
+Andrea: Yeah, for students, it's significantly less expensive than if you're not a student.
+
+IEEE Explanation
+****************
+
+Nigel: You should also join the IEEE as a Member.
+        It's more expensive than the ACM, but the great thing about the IEEE, is that if you pay, you get access to the IEEE
+        LIbrary, and the IEEE Library is one of the greatest resource centers for computingthat there is. Almost every single
+        Computing paper ever written is in that Library. Almost all of them, except for the few that go to the ACM.
+        That's one of the advantages of the IEE, is it's extensive Library, so--
+<Gerald Walks in>
+Jonah: Gerald...
+Andrea: I don't think you can be here sir.
+Gerald: I just wanted to stop--
+Andrea: Nah, this is a student event.
+Nigel: Yeah.
+Andrea: So anyways, I will get back to your guys comments, after we hear from Nigel about the IEEE.
+
+IEEE Portion Start
+==================
+
+Nigel: Okay, so there's our QR code. I think it works.
+Jonah: Not as many blocks so...
+Nigel: Yeah, so, IEEE, what we are going to try to do is to work on an internet if things project this semester. So we will
+        try to get that done. We will also be looking at some ESPA-266 modules to work with those, and doing something with
+        those. Their little electronic modules, and they're pretty awesome.
+        We are going to help the ACM with their Lan Parties, and I think that is what we will be focusing on.
+Andrea: Nice, so the enxt thing is Cyber Security.
+Jonah: Wow, okay, Hey, I'm Jonah Lazar. I'm the Treasurer of the ACM, The Linux User Group, but not the IEEE. Come to the 
+        Linux User Group if you want to learn to use Linux, or already use linux, they're great.
+        So last year we had a hacking competition, and this year we want to have another one, which will be different. Kind
+        of the same thing, we want to get computers, and have a CTF structure top the competition for people. So you hack
+        other people and you get points and it's really fun. But the other thing is, which we didn't do last year, is I want
+        to do a sub-group of the ACM, which is geared towards Cyber Security, so we can learn about different stuff with
+        Networks, and Network security, and things of that variety.
+<Juan Enters the Room>
+Jonah: Well, Come on in. I told them that the Linux User group is awesome.
+Juan: Yeah that's great, come on.
+Andrea: This is Juan.
+Jonah: What we will be having is a seperate meeting time every week for the Cyber Security stuff, and then after that, There is
+        also the IC2 meetings, and they require a $15.00 dues after the first meeting. But they're pretty cool, and they have
+        speakers that talk about several different things, so you should go to those.
+Jonah: For the HAcking competition, I need two types of people. Those that are interested in setting it up, and those that are
+        interested in competing, and we will have more information if you sign up for the mailing list.
+Andrea: Yeah, so if you come up front you can put your name and email address up here, and we'll put you on that mailing list.
+<Clapping in the room>
+
+Lan Party  (Vote Included)
+*********
+
+Andrea: Okay so Lan Party: Okay, I would like our Lan Party to be this month, in Septemeber, and that's just because we
+        didn't have on last month, and that's not good. So we want one probably within the next two to three weeks which
+        means that probably our available dates, are the 18th or the 19th , for that time, or the 25th to the 26th. So 
+        would you guys like to have ti on the 18/19th or the 25/26th? so a Friday Night Game night, or a Saturday night
+        game night? Riase your hands...
+        
+<----- Vote for the Day: Vote 4-5  for Friday --------->
+<----- Vote for Date: 3-5-1 for the 18th -----------> (one obstain) 
+
+Andrea: Okay so the Lan Party is going to be the 18th whihc is a Friday. That is like two and a halfish weks from now.
+Nigel: It'll probably start at around 6:30.
+Andrea; Something like that, If you have any games that you would just love to see, then let us know --
+
+<continue from 9:30 in recording>
