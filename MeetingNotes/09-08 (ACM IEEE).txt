@@ -1,0 +1,107 @@
+Meeting Notes for the ACM/IEEE 08 September, 2015
+
+Andrea: Hello Evryone, welcome back. So we have a lot of stuff going on this week, we'll look first at certain things.
+        So the Lan Party is in a couple weeks, on the 18th, as decided previously. Before we start, just like to ask,
+        Who has ACM membership? Okay.
+Nigel: And who has IEEE Membership? Alright.
+
+Lan Party
+*********
+<Question: Can we have single player games, I remember something being said about-->
+Nigel: Well, we will have single player games there, but we like more for people to have multiplayer games, so we might--
+Andrea: Yeah, you can play, but we generally ask that you do something with someone else.
+<Question: What if we don't have Minecraft?>
+Andrea: You can--
+Nigel: You can play single player maybe, or another game if you want, we generally pick minecraft because everyone has it, and
+        people play it a lot.
+Andrea: Or you can borrow a login from someone.
+Jonah: What about if we want to use an occulus rift?
+Andrea: Well, we have two Occulus Rifts, yeah I will ask if you really want them. But do you really want that sort of thing.
+Nigel: Do you want any of the other clubs to come over?
+Andrea: I was thinking about it, and I will ask them.
+Nigel: Yeah, so we do try to get other clubs, typically we do allow other clubs to join in.
+        We atleast get Nintendo club to show up.
+Andrea: We like them. They bring smash--
+Nigel: Yeah, they bring smash.
+        So people are also free to bring game systems and consoles. I will try to bring--
+Andrea: Yeah bring anything you need--
+Nigel: Bring your desktop, seriously. It's a lot of fun.
+Andrea: Also, bring power strips, because that's necissary.
+        Okay, if you want to game to run on the Windows computers, I have a form attached to the email I sent, where you can
+        Sign up to have that done for you. Just say that you'd like to have a specific game.
+Nigel: TF2
+Andrea: Yeah, TF2, or another game.
+        I will take the one that is most free, and the one that is most popular. In that order.
+<People walk in Andrea asks who has ACM Membership>
+Jonah: When does membership expire?
+Andrea: After a year.
+Nigel: Yeah.
+Jonah: Okay, I need to check that.
+Andrea: Yes, do so Mr. Lazer.
+
+Jonah: So if we didn't pay this year--
+Andrea:When did you get it?
+Jonah: End of Fall Sememster last year.
+Andrea: Then you're good for this semester. But for others, remember, it's $19.99, it's a nice membership.
+Nigel: It's half the price of the IEEE Membership.
+Andrea: There's that.
+<Question: Where do I go to get that Membership?>
+Andrea: The link is on the compass, under the news section.
+Nigel: If you just google: 'ACM Student Membership' You'll find it.
+
+Mailing List and Compass
+************************
+
+Andrea: Okay, there is also this cool new form,which tells me which mailing list you'd like to be on. SO if you want to be on
+        the cyber security mailing list, then you go and check, YES, I want to be on the Cyber Security Mailing list.
+        It's wonderful, you should try it, you should join. Which you will be given information if you join.
+Jonah: So yeah, the email I'm going to send out is going to be a doodle poll to find out when we are going to have the meeting
+        So if you're on the mailing list, look out for that email. It'll also contain some stuff we are going to do for our
+        initial meeting. So look out for that, and I hope to see you at our first meeting soon. Whenever it is.
+
+***********
+Andrea: Ohhh! One last thing. Minecraft mods. So we are probably goign to use minecraft with the same faction modsa s we did
+        last time, that was really fun. My faction did the best ofcourse. So if you were thinking of any other mods that would
+        contribute, just send your ideas to acm@cnu.edu, and we can get that done as well,a nd put it in one of the games.
+        Okay, we'll pass it onto Nigel...
+
+IEEE Portion
+============
+
+Nigel: Okay, Hi, The sign up for IEEE Membership is $40.00. I know it's more expensive but the good thing about it is that if 
+        you go to a job, and you have IEEE membership, it's totally recognized by the employer, and as mentioned last time, 
+        you have access to an extremely comprehensive library of computing and engineering papers.
+        And Every real Engineer, knows about the IEEE if they're not already a member. And people, buy membership so they can
+        put it on their resume alone.
+        I'll be sending the link out to get everyone signed up with that.
+Andrea: Yeah, so if you find anything wrong in my eamils--
+Nigel: Or my eamils.
+Andrea: Yeah, just let me know, and I will buy you a doughnut. Unless you're allergic to doughnuts.
+Nigel: I won't do that.
+Andrea: Neato, so any questions?
+
+Questions
+*********
+
+Jonah: For Nigel, So What are we doing in the IEEE this year?
+Nigel: I'd like to start and internet of things project. I'm sure you've all heard of the Internet of Things... So there's
+        this awesome little circuit board call the ESP-266. It's super-cheap, it's like $3.00. And it's got a WiFi card on
+        it. You can program it in Lua, and It's super easy to get on with it. I was thinking about continuing the project
+        from last year but I don't know how... I don't think so-- (Jonah: What project?)
+        We were building a clock.
+Andrea: What?
+Nigel: We were building an LED Clock, and we designed it, but I don't know how we're going to finish that.
+Andrea: Would you be willing to ressurect Aquarius?
+Nigel: Aquarius? I don't know what that is.
+Andrea: Does anyone know what Aquarius is?
+        Okay, so 3 years ago the remnants of Aquarius was ll that was left, it was an old PCC computer, so the ACM/IEEE took
+        it and dumped it in a pool of mineral oil, and called it liquid cooling. It was a nice little experiement. He could
+        do it, it was really fun. Maybe try something other than the PCC. Get a large fish tank, and a lot of mineral oil...
+Nigel: Hmm, that could work, that could work--
+Andrea: Yeah, mostly, the problem was that the fish tank seals were made of silicon, and the mineral oil ate through it.
+        It made a mess.
+Jonah: So what you're saying is... We need a Computer to Destroy.
+Andrea: Yeah, maybe, okay, if that's all, we are done.
+
+Meeting End
+***********
