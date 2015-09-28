@@ -1,0 +1,87 @@
+Meeting notes for 21 April, 2015
+
+Andrea: Okay, so I know there has been a switch around with the schedules: we do not have a meeting tomorrow,
+        even though ti's tuesday thursday schedule.
+
+IC2 Meeting
+***********
+
+Andrea: There is however, and IC2 Meeting tomorrow. THey are talking about security your personal computer, and you should go.
+Jonah: It's a lot of fun. Free food, that your $15.00 pays for.
+
+Club Fair
+*********
+
+Andrea: And on another note, lets not forget about club fair, because freshman need not know what they are doing here when they
+        come by next year. I know that all of you are involved in something.
+Nigel: UAS people, need to be there as well, please.
+Andrea: So these people don't know what we are doing, they don't know what we are getting at, and we need to impress them.
+        We can make something for the ACM. Make it sparkly and glittery and make it real pretty.
+Jonah: We need to do something with computers. Lets bring a quadcopter in.
+Andrea: As we get closer to club fair, we need to organize this, so we can catch smiling freshman, and recruit them.
+        ACM is starting up in highschools in Hampton Roads. If we want to partner up with them, we would have to help out with
+        currently inactive groups of two other Universities.
+Richard: Thought it was William and MAry and someone else, I don't remember.
+Andrea: Probably Thomas Nelson was the other one. I'll have to look.
+Gerald: Last I checked though, William and Mary was active, although I think they're smaller than us right now.
+Jonah: What?
+Andrea: So we need volunteers who are willing to transfer to help out with other ACM groups in the area.
+Jonah: I don't care, I'll go to William and Mary.
+Jacob: I might be next year might be-- (laughs)
+Jonah: Do we really want to do anything with ODU?
+Andrea: Yeah, if they bring us Money.
+        If we can ask them to set up some sort of giant carnival event then that would be good.
+Jacob: Like a giant Lan Party. A huge Lan Party.
+Andrea: I like that idea too.
+Gerald: I mean, there are some pretty big Lan Parties that are thrown around the world, so if we can get something bigger,
+        by all means.
+
+
+Lan Party
+*********
+
+Andrea: Yeah, so that ebing said, aparently you guys wanted a Lan party this week on the 25th. I don't belive you guys.
+        If we want to do it we can do it.
+Jonah: Yeah because I thought it was a reading day, and that was going to leave us free for that night.
+Mason: There are study sessions though.
+Karl: What about exams? Nigel: We can meet later (Same time)
+Andrea: There aren't exams on that day.
+Jacob: Yeah, it's sunday so--
+Gerald: You can't schedule an event now, because it's finals. When finals start all club events have to stop.
+        If I'm not mistake, you might want to double check that.
+Nigel: So why don't we just do an online Lan Party? A virtual Lan Party.
+
+Minecraft Server
+****************
+
+Andrea: Okay so we have our Minecraft server running, and if you want to go on it, you can go on it. 
+Jonah: Yay.
+Jacob: What if you're not on--
+Nigel: I think you have to be on campus.
+Andrea: Yeah, if you're on Campus, the it's already set up for you to go.
+Richard: Can we figure out a way to put it forward together so that--
+Nigel: Andrea wants to set it up over ssh.
+Andrea: I can, but I'm Lazy.
+Jacob: Who here has not had a reply to?
+Andrea: Also I don't have the password to the server so there's that.
+Jackie: Does Nigel Know about that?
+Andrea: Yeah, Mr. Nigel is going to help you with that.
+
+Fundraising
+***********
+
+Andrea: last thing we have. Mr. Lazer...
+Jonah: That's me!
+Andrea: How much money have we made over the fundraiser.
+Jonah: That is a famortastic question Andrea. And the answer to that is that we still have that--
+<Someone puts one dollar infront of Jonah>
+Jonah: Thank you! So we have one dollar!
+Jackie: 17 lashes for your incompetence.
+Jonah: What?
+Jonah: Yeah, so I figured I'd go talk to OSA about flipping the table.
+Andrea: Yes, I want a fundraiser.
+
+Andrea: So, that's all.
+
+Meeting Ends
+************
