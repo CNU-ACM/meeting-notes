@@ -1,0 +1,105 @@
+Meeting Notes for the ACM 17 March, 2015
+
+Meeting Start
+*************
+
+Andrea: Okay, let's get started, We had a good time last week with everything.
+
+Programming Competition
+***********************
+
+Andrea: The Programming Competition is coming up, that's on the 3rd of next month (April) So be prepared for that coming up.
+(Confirmation with others in the room)
+Andrea: So teams for that are getting ready to sign up, talk to Dr. Khoel for more information.
+        Generally just pick two people you like, or think are decent at programming, and just go for it, and make a team. 
+        And credit the ACM.
+Nigel: Already done it.
+Andrea: Who's on your team?
+Nigel: Dan Ackerman.
+Jonah: That's right he told me that... and...
+Nigel: That's it. We don't want another person.
+Jacob: You should want another person, that way one person codes, and the other one fights with everyone about everything.
+Andrea: Right, so the programming competition is coming up, and I would like to see a bunch of people out there, and coding away.
+        You have 7 problems or something and 3 hours in which to do them.
+Nigel: And no google.
+Andrea: That's right, and no internet access.
+Nigel: If we could pull off that NCIS stuff...
+Jonah, Yeh, we could just find a way to make it look like we're coding. Hackertyper.com, (brrr)...
+
+Replay for Life
+***************
+
+Andrea: So, since we've lost Richard, I don't kow what's going on with Replay for life.
+Jonah: Oh right, he told me that he quits and resigns his position.
+Andrea: Yes, So Richard may or may not be coming back.
+Jacob: You don't know where Richard is?
+Andrea: No. We haven't heard from him at all.
+        So we don't know what's going on with Replay for life, if you guys want to help
+        out with that it would eb more than appreciated.
+Gerald: If you guys do this online it's better but last time you were in dead last place with zero dollars though.
+Nigel: We're not talking about donations though, we're talking about Replay for Life.
+Andrea: Yeah, so if anyone is interestedin helping me out with that, I guess we have to start over from scratch,
+        and that's how it is.
+Nigel: I still remember the password for what he used to host it. For the Twitch account.
+Andrea: Okay, so Nigels already making progress there.
+Gerald: You guys have everything you need, you just have to figure out the setup for streaming stuff that you need as well.
+        You have the domain, twitch account, and I have webserver space if you want, and uh--
+(Interupted) Andrea: Honestly, what I would like from you, is a donation. How's $300.00?
+Andrea: You can donate that, it's no problem. You make a lot of money in your rich, computer IT job.
+Gerald: Okay maybe, at some point. (Laughs)
+Andrea: Okay, so Mr. Nigel, I will be talking to you at some point, and we'll figure out where to go from there.
+David: I can help out as well, at replay for life.
+Andrea: Good, so we have lots of ridiculous ideas, about how to strap desks to people, for Replay for life, I would love to hear
+        them, eamil me at acm@cnu.edu.
+
+
+Fundraising
+***********
+
+Andrea: Okay so, fundraising...
+Jonah: Oh that's uh... yeah... That's me isn't it.
+      I have a monitor that we can destroy.
+Andrea: Okay, well, have you made any progress? 
+Jonah: Yes, I have a monitor that we can destroy.
+Andrea: Good for you... Do you have a time? Table?
+Jonah: Oh hell no, I don't know how to set that up.
+        The one fundraiser I did Gerald set it up, and --
+Andrea: Okay I will show you how to do it.
+        It's pretty easy, you just have to go to the OSA.
+
+Interest Stuff
+**************
+
+Andrea: So anyone have any business that is of interest to the ACM? Or me?
+Jonah: We wrapped the movie shoot, that we're sponsoring.
+Andrea: You dropped it?
+Jonah: We wrapped it.
+Andrea: Oh. That the ACM is sponsoring?
+Jonah: Ofcourse.
+Andrea: We're sponsoring a movie shoot?
+Jonah: Hell yeah.
+Andrea: I'm sure I did at some point. Can you tell me more about it.
+Jonah: Yeah, we needed the Atrium, but only organizations can reserve the atrium.
+Andrea: Oh, That's right.
+        The same way you reserve the atrium, is the same way that you can host a fundraiser.
+Jonah: Talk to Clare?
+Andrea: Actually that is a main way of solving a super huge ammount of problems.
+Nigel: Because the department can also reserve things.
+Jonah: Okay, cool.
+
+Lan Party
+*********
+
+Andrea: I am interested in doing one more Lan party before the school closes for the semester.
+Jonah: How'd the last one go?
+Andrea: (Sigh)
+Nigel: I heard it was centered around minecraft.
+Andrea: Yeah, we had like a half way full minecraft server, it was the best.
+        Only thing is that VESPA took the creech at the same time, so that was one fo the only problems.
+Jonah: Yeah, so what's going to happen, I heard Clare sent you a smiley face.
+Andrea: Yeah, so I don't know what the reprocussions of this arte, but I know we are not affiliated with them.
+Andrea: So the programming competition is on Friday, and we have a rather packed weekend.
+Jonah: It's like an ACM weekend.
+Nigel: I actualy wouldn't mind putting that on a poster. Call it the ACM weekend.
+Andrea: So that's all for this week, you are dismissed.
+
