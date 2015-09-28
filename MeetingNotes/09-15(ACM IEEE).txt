@@ -1,0 +1,23 @@
+Meeting Notes overview for 15 Septemeber, 2015
+
+Meeting notes Overview:
+**********************
+
+- LAN Party Friday at 8:00 PM   (Setup is at 7:00 PM)
+- Artemis Bridge Simulator
+- Minecraft
+
+- Go Help andrea set up on Thursday (17th @ 7:30)
+
+- Do you have a favorite Tech company that might come speak? Tell andrea, or email ideas to acm@cnu.edu
+- We'll do our best to bring them to campus.
+
+Cyber Security Meeting
+**********************
+
+Jonah: Cyber Security meeting this sunday at 5:00. In the Hunter Creech, back corner where the couches are, so we're
+        comfortable. We are going to be doing a lot of stuff for the hacking competiton this semester, and show you how
+        you can get signed up for the Hacking competiton as well. We are also going to bo showing you some cool things with
+        Networking, and Network Security as well. So please come to that. Our big project for this semester is for building a 
+        big network security lab, and I don't want to say where, because Nigel will be mad at me, but yeah, look out for the 
+        email.
