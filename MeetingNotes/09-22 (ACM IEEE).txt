@@ -1,0 +1,147 @@
+Meeting Notes 22 September, 2015
+
+Pre-meeting Pleasantries
+************************
+
+Andrea: Hello Everyone, so lets get started. Our mailing list is filled, and we have a lot of people in here.
+        We get ost of this from the OSA. You can change stuff on there. Emails, Name, stuff like that.
+Andrea: Yes? Hello... <Andrea answers phone>
+Andrea: Anyway, with all these emails, I've been putting out of context quotes at the bottom of all these emails. I hope you
+        enjoy them as much as I do. Lets just wait until more people show up.
+Nigel: I notice how during class people always sit at the back, but during the meetings, people always sit towards the front.
+Andrea: because we're friendly and nice, and I will give you an A in freindship if you sit at the front!
+Jonah: Hey! I get an A in freindship.
+<Andrea points at the back corner where Jackie sits>
+Andrea: You fail! You may as well just turn around.
+Jonah: This is some nasty mac and cheese.
+Andrea: Yeah, that's because you went to the dining hall.
+
+Meeting Start
+*************
+
+Andrea: Okay, so this Lan party... Flores... okay so, the Lan Party was super fantastic. We had three teams of Artemis, with
+        a large number of people playing. We also had some people on Minecraft, just messing and wiggeling about on there.
+Andrea: All shenanegans aside, it was a very entertaining Lan Party. I would like to start planning on the next Lan Party.
+        I would like to switch it up, and try to base it on a less strategy type of thing. I was thinking CS-Go but not 
+        everyone owns CS-Go. But I--
+Nigel: I think TF2.
+Andrea: Yeah, we could do TF2.
+Nigel: And I think TF2, it still has a community, which I think is pretty amazing for a game that ahs been out as long as
+        long as it has.
+Jonah: They just came out with an entire Game-changing update like a month ago, so it's grown in popularity.
+Nigel: Right, like so yeah.
+<Question: Could we have multiple games going?>
+Andrea: The question to the Lab's computer handle is proabably, yes.
+        Those are work station-level computers.
+Nigel: Yeah, the only question would be the graphics--
+Andrea: They're quite impressive.
+Jonah: And Flight Inside is pretty insane.
+Andrea: Um... I will look into that.
+        Good Call.
+Nigel: Um, Also, for the Lan Party, next month Lan Party, We could totally use a really awesome poster.
+        So if someone has some artistic skills or otherwise, and would like to design a poster, we could use one.
+Jonah: I mean, we could print one.
+Nigel: No we're not talking about that kind, we're talkin about 8'1/2 by 11' poster for it.
+Andrea: And quarter size--
+Nigel: and Quarter size fliers for the event as well, that we can put up in the residence corners.
+Andrea: I don't know if maybe we could have just some kind of like, fantastic poster, that we could put up in the creech
+        like three days before the Lan Party.
+        But I would love to have something that is more than just the text: "Lan Party, Here, Friday" So, some nice little
+        pictures, and some nice graphics.
+Nigel: We can have something nice, some nice little circles and pictures, and squares.
+Andrea: So we are going to try to do that for the next Lan Party.
+Nigel: And part of that will also be, to get advertising up and good for it as well, for the next Lan Party.
+Andrea: But no guns you can't put any guns on it.
+Nigel: Mostly, we'll just be seeing if people can put up fliers and some posters and stuff up for us.
+Andrea: Mostly fliers. But okay, good.
+
+
+CNU Office of Sustainability
+****************************
+
+Andrea: Okay, so I was contacted by the CNU Office of sustainability, and they would love to have some free labor from
+        the ACM, working on some sort of project with... They said: "Raspberry Pi". Yeah, so that's what most people say
+        when they don't know what they want. So, I am going to go talk with What's-his-name? <Person Name: Ryan Fets(?)>
+<Person(?) States: It's an arduino, it's a micro controller>
+Nigel: Raspberry Pi is not a microcontroller though.
+<Person(?): It's also a microcontroller though>
+Nigel: Not really. (Andrea: It's a computer)
+<Person(?): I'm serious. 
+Nigel: Not really--
+Jonah: You're seriously wrong.
+Nigel: No... Yeah, it's really not.
+Andrea: This is our Capstone, to make it work like one... What? The sustainability office wants free labor, I am going to give them what 
+        they want. If you want to come with me... And learn more... because that is all I know. You can do so. Come
+        talk to me afterwards, and we will figure out a time collectively.
+Member in the Room: I talked with them yesterday, and it seemed like he didn't really know what he wanted with it.
+Jonah: Yeah, so something with a Raspberry Pi.
+Nigel: The first step--
+Jonah: yeah..
+Andrea: Be, okay...
+
+Minecraft Server
+****************
+Andrea: So the Minecraft server that was up during Lan Party should still be up. At 'acm.cnuapps.me'. It will remain up until
+        Juan decides that he is tired of using his free trial on it, and he takes it down.
+        
+        So I have some server-ish-esque boxes laying around at home. Which I am willing to set up at CNU, with a firewall, 
+        and if anyone is interested in playing with server administration, and wants to try being a sys-admin, then, for 
+        99.999% up time.
+Nigel: Or if you want to we can actually set you up with a virtual Machine on the server that the ACM, and the IEEE actually
+        own. It's sitting in the server rack doing absolutely nothing. We need to findthe password though, and then we have
+        to work on getting it through some of the firewalls, which we have done previously, and we may be able to run games
+        with.
+Nigel: It worked everywhere on campus last time, which did take a little bit of doing. (Answering Question)
+Andrea: Did we have it outward facing?
+Nigel: We could work on that, we could try to get some things outward facing.
+Andrea: If you would really love to take a look at all things sys-admin, please volunteer.
+
+<people start running to the front>
+
+Andrea: Ahh! Not all at once! Maybe after I dismiss you guys, you can form an orderly line, to sign up for free labor.
+        And all the people who want to provide free labor for sustainability.
+Nigel: And all the people who want to help out with advertising for the Lan Party.
+Andrea: Yeah, posters.
+Jonah: All the posters...
+
+IEEE Portion: Internet of Things
+********************************
+
+Nigel: So the IEEE people have been looking at doing an Internet of Things thing...
+Jonah: When you say people, you mean you right.
+Nigel: No, I mean, I don't remember who asked, but people have been looking at that. So I think that the best way to do that
+        would be to have a seperate meeting outside of this meeting, and we can talk about it. But I gotta figure out when
+        poeple want to do it.So, I'll probably send out an E-mail.
+
+Lan Party
+*********
+
+Andrea: So, next Lan Party, is kind of wierd, I would like to do it in about a Month-ish, the thing is we've got Fall recess
+        on October the 9th, to the 13th. So, We can advertise before break, which means we would have to have everything ready
+        By, next week, or we can delay it to the 13th and have a Halloween, Lan Party, I wont mandate costumes this time.
+Jacob: You should do it, remember what happened last time, it was pretty cool.
+Jonah: With all their costumes and stuff, wait this happened?
+Jacob: Oh yeah.
+Andrea: Yeah, so do you want to have a nice happy October--
+Nigel: Well there's 3--We could do it the 17th the 24th or the 31st.
+Andrea: You know, lets just get back from break, and then we'll be in the right mind set.
+Nigel: So the 23rd?
+Andrea: Either the 23rd or the 30th. Because you guys like fridays.
+Jonah: Lets do the 31st.
+Andrea: You want it the 31st? But that's a Saturday.
+Jonah: You're a Saturday.
+Andrea: I am not a Saturday... Alright I have to ameka  decision, either the 23rd or the 30th.
+Jonah: What about the 31st?
+Jacob: Common ground here, lets ahve one on both the 30th, and the 31st.
+Andrea: So lets have a vote. Raise hand for 30th, and 31st.
+Nigel: Well, there's other stuff that happens on Halloween.
+Jonah: What are you doing Halloween that's more important than the Lan Party?
+Nigel: Halloween Party.
+Jonah: Get the <*Censored*> out. You're not going to a Halloween party.
+Andrea: Yeah, so, we'll have a Gaming Halloween Party. Sounds good. We can decorate with pumpkins. 
+
+
+Andrea: We're good? Go in peace. I release you. End of Line.
+
+EOL
+***
